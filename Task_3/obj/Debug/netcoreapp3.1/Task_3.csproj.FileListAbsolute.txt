@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Task_3.exe
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\notes.json
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Task_3.deps.json
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.json
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Task_3.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\Михаил\source\repos\PMHW4\Task_3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.csproj.CopyComplete
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.dll
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.pdb
+C:\Users\Михаил\source\repos\PMHW4\Task_3\obj\Debug\netcoreapp3.1\Task_3.genruntimeconfig.cache
